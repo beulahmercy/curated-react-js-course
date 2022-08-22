@@ -18,7 +18,7 @@
 
 ## google search api
 
-https://www.googleapis.com/customsearch/v1?key=AIzaSyDc6s-6qkScrI24tUm7MjOrEHKF5jOS0Bo&cx=017576662512468239146:omuauf_lfve&q=text
+https://www.googleapis.com/customsearch/v1?key=XXXXXXXX&cx=017576662512468239146:omuauf_lfve&q=text
 
 ## react
 
@@ -73,9 +73,8 @@ add/update/delete state
 fetch API
 Routes
 
-https://www.googleapis.com/customsearch/v1?key=AIzaSyA5-lpQYja2gFa1UflxoCpJ1JB6NfuVb7w&cx=017576662512468239146:omuauf_lfve&q=
+https://www.googleapis.com/customsearch/v1?key=XXXXXX&cx=017576662512468239146:omuauf_lfve&q=
 
-AIzaSyDc6s-6qkScrI24tUm7MjOrEHKF5jOS0Bo
 
 {
 htmlFormattedUrl: "https://example.com",
