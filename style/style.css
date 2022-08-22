@@ -1,0 +1,38 @@
+body {
+  background-color: antiquewhite;
+}
+
+#div1 {
+  background-color: aliceblue;
+}
+#div2 {
+  background-color: beige;
+}
+.group1 {
+  background-color: aliceblue;
+}
+.sample {
+  width: 100px;
+  height: 100px;
+  background: green;
+  /* overflow: scroll; */
+  /* margin: 10px;
+  padding: 20px; */
+  margin-left: 10px;
+  padding-left:20px;
+
+}
+
+
+.sample1{
+    float:left;
+}
+.sample2{
+    float:right;
+}
+
+.list-group{
+  position: sticky;
+  top: 15px;
+
+}
